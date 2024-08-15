@@ -1,8 +1,6 @@
 👋 Hi there
 
-👩‍💻 Skill : `python` `opencv` `django` `c` `cpp` `opengl` `javascript` `typescript` `vue` `nest` `java` `ocaml`
-
-📧 Contact rn0731@naver.com
+👩‍💻 wreckitcona.notion.site
 
 <!---
 goo314/goo314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
